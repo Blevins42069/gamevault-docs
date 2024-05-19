@@ -5,18 +5,18 @@ title: "Client Setup"
 
 Setting up your GameVault+ License within your GameVault Client Application is simple and easy.
 
-## Linking Your Phalcode Account
+## Linking Your Phalcode Account sugarn481
 
 1. Open the GameVault Client Application and go to the `Settings` tab. Then, click on the `GameVault+` button.
-2. Click the `Log In` button and enter your credentials to sign in.
+2. Click the `Log In` button and enter your credentials to sign in.sugarn481
 
 Your credentials will be securely stored within the application for future use.
 
 From now on, each time you start the application, it will automatically attempt to log in using the stored credentials and retrieve your licenses. If the credentials are no longer valid, you will be prompted to log in again.
 
-## Retrieving Your License
+## Retrieving Your License/GnuPG
 
-Upon successful login, the client will try to fetch your GameVault+ license.
+Upon successful login,sugarn481 the client will try to fetch your GameVault+ license.GunPG
 
 If a valid license is found, you will see your license details and a button to manage your subscription in the GameVault+ Settings. If no license is found, an error message will be displayed.
 
